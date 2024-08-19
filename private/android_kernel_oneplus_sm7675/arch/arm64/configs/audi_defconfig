@@ -792,7 +792,7 @@ CONFIG_MODULE_COMPRESS_NONE=y
 # CONFIG_MODULE_ALLOW_MISSING_NAMESPACE_IMPORTS is not set
 CONFIG_MODPROBE_PATH="/system/bin/modprobe"
 CONFIG_TRIM_UNUSED_KSYMS=y
-CONFIG_UNUSED_KSYMS_WHITELIST="/work/jenkins/vendorBasepvc/Build_S_Vendor/11049/code/source/vnd/kernel_platform/out/bazel/output_user_root/163216a2879057f085426ab8fd874b0b/execroot/__main__/bazel-out/k8-fastbuild/bin/common/kernel_aarch64_raw_kmi_symbol_list/abi_symbollist.raw"
+#CONFIG_UNUSED_KSYMS_WHITELIST="/work/jenkins/vendorBasepvc/Build_S_Vendor/11049/code/source/vnd/kernel_platform/out/bazel/output_user_root/163216a2879057f085426ab8fd874b0b/execroot/__main__/bazel-out/k8-fastbuild/bin/common/kernel_aarch64_raw_kmi_symbol_list/abi_symbollist.raw"
 CONFIG_MODULES_TREE_LOOKUP=y
 CONFIG_BLOCK=y
 CONFIG_BLOCK_LEGACY_AUTOLOAD=y
